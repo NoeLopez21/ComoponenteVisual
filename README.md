@@ -57,6 +57,9 @@ Este es un componente personalizado para Java Swing, diseñado para facilitar la
 ![Vista de jar Reutilizable](capturas/Vista%20de%20.jar%20Reutilizable.png)
 
 ---
+## Video de youtube
+Expliacion sobre los componentes hechos en un jpanel y los cambios desde propiedades dentro de un jframe
+https://youtu.be/ZC3yctRWFMM
 
 ## 👥 Créditos
 
