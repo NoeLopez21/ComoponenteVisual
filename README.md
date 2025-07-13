@@ -54,7 +54,7 @@ Este es un componente personalizado para Java Swing, diseñado para facilitar la
 ---
 
 ### ♻️ Vista de .jar Reutilizable
-![Vista de jar Reutilizable](capturas/Vista%20de%20jar%20REutilizable.png)
+![Vista de jar Reutilizable](capturas/Vista%20de%20.jar%20Reutilizable.png)
 
 ---
 
