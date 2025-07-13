@@ -44,7 +44,7 @@ Este es un componente personalizado para Java Swing, diseñado para facilitar la
 ---
 
 ### 📧 Cambio de icono a Correo agregando dominio
-![Cambio de icono a Correo agregando dominio](capturas/Cambio%20de%20icono%20a%20Correo%20agregando%20dominio.png)
+![Cambio de icono a Correo agregando dominio](capturas/Cambio%20de%20icono%20a%20Correo%20agregando%20@.png)
 
 ---
 
