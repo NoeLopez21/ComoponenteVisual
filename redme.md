@@ -27,38 +27,12 @@ Este es un componente personalizado para Java Swing, diseñado para facilitar la
 
 ### 🖋️ Métodos principales
 - **`setTipoEntrada(String tipo)`**  
-  Define el tipo de validación del campo de texto.  
-  Tipos soportados:  
-  - `"alfanumerico"`
-  - `"numerico"`
-  - `"texto"`
-  - `"caracteresunicos"`
-  - `"correo"`
 
-- **`setIconoTipo(IconoTipo icono)`**  
-  Configura el icono mostrado a la izquierda del campo de texto.  
-  Tipos de iconos:  
-  - `BUSCAR`
-  - `USUARIO`
-  - `CORREO`
-
-- **`setDominioCorreo(String dominio)`**  
-  Establece el dominio por defecto para autocompletar correos electrónicos.  
-  Ejemplo: `"@gmail.com"`
 
 ---
 
 ## 📖 Instrucciones de uso
 
-1. **Importa el `.jar` en tu proyecto NetBeans**:  
-   - Clic derecho en tu proyecto → **Properties** → **Libraries** → **Add JAR/Folder**.  
-   - Selecciona el archivo `Componente.jar` dentro de la carpeta `jar/`.
-
-2. **Agrega el componente al JFrame**:  
-   - Arrastra el componente desde la paleta de NetBeans al formulario.  
-   - Configura las propiedades desde el panel de propiedades o por código.
-
----
 
 ## ✅ Ejemplo de uso
 
